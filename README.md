@@ -1,4 +1,4 @@
-#Machine learning project
+# Machine learning project
 
 This repository contains a project in which I have analyzed the MNIST (Modified National Institute of Standards and Technology) dataset of handwritten digits.
 
